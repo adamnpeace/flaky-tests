@@ -1,7 +1,7 @@
-# Code for Modeling & Ranking Flaky Tests at Apple *(Memon et al., ICSE 2020)*
+# My Implementation of models in *Modeling & Ranking Flaky Tests at Apple*
 
-Code to accompany the paper.
+Code is based on the models described in the paper which was presented at ICSE 2020 by Memon et al.
 
-Written by Adam Peace, 2020. 
+Implementation by Adam Peace, 2020. 
 
-*The contents of this notebook are not affiliated with Apple Inc*
+*The contents of this repository are not affiliated with Apple Inc*
